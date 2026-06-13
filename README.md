@@ -1,4 +1,4 @@
-he following programming templates have been used to create the program: • Classes • Constant Functions/Variables • Linked List • Queues • Conditional Statements/Selection Statements • Iterative Procedures
+The following programming templates have been used to create the program: • Classes • Constant Functions/Variables • Linked List • Queues • Conditional Statements/Selection Statements • Iterative Procedures
 
 There are 4 main objectives of the program:
 
